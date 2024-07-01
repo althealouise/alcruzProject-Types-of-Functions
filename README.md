@@ -31,28 +31,28 @@ You do not need any form of downloads or installations for this project. To depl
 3. Click on the "Deploy" button.
 4. Confirm the transaction in the Remix simulator.
 5. After deployment, you can interact with the contract using the following functions:
--balanceOf(address account): Returns the token balance of the specified address.
--transfer(address recipient, uint256 amount): Transfers tokens to the specified address.
--approve(address spender, uint256 amount): Approves the specified address to spend a certain amount of tokens on behalf of the message sender.
--allowance(address owner, address spender): Returns the remaining number of tokens that the spender is allowed to spend on behalf of the owner.
--transferFrom(address sender, address recipient, uint256 amount): Transfers tokens from one address to another using the allowance mechanism.
+- balanceOf(address account): Returns the token balance of the specified address.
+- transfer(address recipient, uint256 amount): Transfers tokens to the specified address.
+- approve(address spender, uint256 amount): Approves the specified address to spend a certain amount of tokens on behalf of the message sender.
+- allowance(address owner, address spender): Returns the remaining number of tokens that the spender is allowed to spend on behalf of the owner.
+- transferFrom(address sender, address recipient, uint256 amount): Transfers tokens from one address to another using the allowance mechanism.
 
 ## Sample Interaction
 1. Check Balance:
--In the "Deployed Contracts" section, click on the balanceOf function.
--Enter the address you want to check the balance of and click "Call".
+- In the "Deployed Contracts" section, click on the balanceOf function.
+- Enter the address you want to check the balance of and click "Call".
 2. Transfer Tokens:
--Click on the transfer function.
--Enter the recipient's address and the amount of tokens to transfer.
--Click "Transact" and confirm the transaction in MetaMask.
+- Click on the transfer function.
+- Enter the recipient's address and the amount of tokens to transfer.
+- Click "Transact" and confirm the transaction in MetaMask.
 3. Approve Tokens:
--Click on the approve function.
--Enter the spender's address and the amount of tokens to approve.
--Click "Transact" and confirm the transaction in MetaMask.
+- Click on the approve function.
+- Enter the spender's address and the amount of tokens to approve.
+- Click "Transact" and confirm the transaction in MetaMask.
 4. Transfer Tokens Using Allowance:
--Click on the transferFrom function.
--Enter the sender's address, recipient's address, and the amount of tokens to transfer.
--Click "Transact" and confirm the transaction in MetaMask.
+- Click on the transferFrom function.
+- Enter the sender's address, recipient's address, and the amount of tokens to transfer.
+- Click "Transact" and confirm the transaction in MetaMask.
 
 ## Author
 Althea Louise C. Cruz
