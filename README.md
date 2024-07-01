@@ -16,7 +16,7 @@ contract MyToken is ERC20 {
 ```
 
 ## Preconditions
-You do not need any form of downloads or installations for this project. To deploy and interact with this contract, you only need the [Remix IDE][https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.26+commit.8a97fa7a.js].
+You do not need any form of downloads or installations for this project. To deploy and interact with this contract, you only need the [Remix IDE](https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.26+commit.8a97fa7a.js).
 
 ## Setup Instructions
 1. Open Remix IDE
