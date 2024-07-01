@@ -1,6 +1,9 @@
 # alcruzProject-Types-of-Functions
 This project is a custom ERC20 token built using the OpenZeppelin library. This token follows the ERC20 standard, ensuring compatibility with various wallets, exchanges, and others.
 
+## Project Submission Requirements
+- "For this project, you will write a smart contract to create your own ERC20 token and deploy it using HardHat or Remix. Once deployed, you should be able to interact with it for your walk-through video. From your chosen tool, the contract owner should be able to mint tokens to a provided address and any user should be able to burn and transfer tokens."
+
 ## Smart Contract code
 ```Solidity
 // SPDX-License-Identifier: MIT
